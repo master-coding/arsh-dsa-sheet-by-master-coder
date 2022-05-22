@@ -1,4 +1,4 @@
-1. Find the duplicate number.
+## Find the duplicate number.
 
 ``` c++
 // method 1: count the frequency of every element
