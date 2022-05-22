@@ -1,13 +1,36 @@
 1. Find the duplicate number.
 
-    1. Method1: Using sorting.
-        - Time complexity: O(nlogn)
-
 ``` c++
+// method 1: count the frequency of every element
+// time complexity: O(n), space: O(n)
 class Solution {
 public:
-    // method 1: using sorting
-    // time: O(nlogn)
+    int findDuplicate(vector<int>& nums) {
+        int count[nums.size()];
+        fill(count, count + nums.size(), 0);
+        
+        for (int i = 0; i < nums.size(); i++) {
+            count[nums[i] - 1]++;
+        }
+        
+        for (int i = 0; i < nums.size(); i++) {
+            if (count[i] > 1) {
+                return i + 1;
+            }
+        }
+        
+        // will never reach this part of the code
+        return -1;
+    }   
+};
+```
+
+``` c++
+// method 2: using sorting
+// time: O(nlogn)
+
+class Solution {
+public:
     int findDuplicate(vector<int>& nums) {
         sort(nums.begin(), nums.end());
         
@@ -20,7 +43,26 @@ public:
         // will never reach this part of code
         return nums[nums.size() - 1];
     }
-    
-    
+};
+```
+
+``` c++
+// method 2: using unordered_set
+// time: O(n), space: O(n)
+
+class Solution {
+public:
+    int findDuplicate(vector<int>& nums) {
+        unordered_set <int> s;
+        
+        for (int i = 0; i < nums.size(); i++) {
+            if (s.find(nums[i]) != s.end())
+                return nums[i];
+            
+            s.insert(nums[i]);
+        }
+        
+        return -1;
+    }   
 };
 ```
