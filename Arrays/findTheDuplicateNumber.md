@@ -47,7 +47,7 @@ public:
 ```
 
 ``` c++
-// method 2: using unordered_set
+// method 3: using unordered_set
 // time: O(n), space: O(n)
 
 class Solution {
@@ -60,6 +60,22 @@ public:
                 return nums[i];
             
             s.insert(nums[i]);
+        }
+        
+        return -1;
+    }   
+};
+```
+
+```c++
+// method 4: modifying the array
+// time complexity: O(n)
+class Solution {
+public:
+    int findDuplicate(vector<int>& nums) {
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[abs(nums[i]) - 1] < 0)  return abs(nums[i]);
+            else  nums[abs(nums[i]) - 1] *= -1;
         }
         
         return -1;
