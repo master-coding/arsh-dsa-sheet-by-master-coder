@@ -9,7 +9,8 @@ A lot of thanks to Arsh Goyal for providing this Amazing DSA sheet
 ## Table of contents
 
 -   [Arrays](#arrays)
--   [Backspace String Compare](#stacks-and-queues)
+-   [Strings](#strings)
+-   [Stacks and Queues](#stacks-and-queues)
 
 ## Arrays
 
@@ -18,7 +19,15 @@ A lot of thanks to Arsh Goyal for providing this Amazing DSA sheet
 |   Find the duplicate number    | [Link](https://leetcode.com/problems/find-the-duplicate-number/)                           |    [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/findTheDuplicateNumber.md)    |
 |          Sort colors           | [Link](https://leetcode.com/problems/sort-colors/)                                         |          [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/sortColors.md)          |
 | Chocolate Distribution Problem | [Link](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1/#) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/chocolateDistributionProblem.md) |
-| Two Sum | [Link](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/twoSum.md) |
+|            Two Sum             | [Link](https://leetcode.com/problems/two-sum/)                                             |            [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/twoSum.md)            |
+
+---
+
+## Strings
+
+|      Problem      | Problem Link                                             |                                                     Solution                                                      |
+| :---------------: | -------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------: |
+| Valid Parenthesis | [Link](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Strings/validParenthesis.md) |
 
 ---
 
