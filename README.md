@@ -27,7 +27,7 @@ A lot of thanks to Arsh Goyal for providing this Amazing DSA sheet
 
 |      Problem      | Problem Link                                             |                                                     Solution                                                      |
 | :---------------: | -------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------: |
-| Valid Parenthesis | [Link](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Strings/validParenthesis.md) |
+| Valid Parenthesis | [Link](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Strings/validParentheses.md) |
 
 ---
 
