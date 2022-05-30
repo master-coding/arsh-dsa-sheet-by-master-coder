@@ -30,6 +30,7 @@ A lot of thanks to Arsh Goyal for providing this Amazing DSA sheet
 | Valid Parenthesis | [Link](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Strings/validParentheses.md) |
 | Print all the duplicates in the input string | [Link](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Strings/printDuplicates.md) |
 | Implement strStr() | [Link](https://leetcode.com/problems/implement-strstr/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Strings/implementstrstr.md) |
+| Valid Palindrome II | [Link](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Strings/validPalindromeII.md) |
 
 ---
 
