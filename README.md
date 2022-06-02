@@ -10,6 +10,8 @@ A lot of thanks to Arsh Goyal for providing this Amazing DSA sheet
 
 -   [Arrays](#arrays)
 -   [Strings](#strings)
+-   [Sorting and Searching](#sorting-and-searching)
+-   [Linked List](#linked-list)
 -   [Stacks and Queues](#stacks-and-queues)
 
 ## Arrays
@@ -36,11 +38,19 @@ A lot of thanks to Arsh Goyal for providing this Amazing DSA sheet
 
 ## Sorting and Searching
 
-|                     Problem                     |                                       Problem Link                                       |                                                             Solution                                                             |
-| :---------------------------------------------: | :--------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
-| Permute arrays such that sum of every pair >= k | [Link](https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Searching%20and%20Sorting/permuteArrays.md) |
-| Ceiling in a sorted array | [Link](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Searching%20and%20Sorting/ceilInSortedArray.md) |
-| Find Pair Given Difference | [Link](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Searching%20and%20Sorting/pairDiff.md) |
+|                     Problem                     |                                       Problem Link                                       |                                                               Solution                                                               |
+| :---------------------------------------------: | :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| Permute arrays such that sum of every pair >= k | [Link](https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/) |   [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Searching%20and%20Sorting/permuteArrays.md)   |
+|            Ceiling in a sorted array            |             [Link](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/)             | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Searching%20and%20Sorting/ceilInSortedArray.md) |
+|           Find Pair Given Difference            |             [Link](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/)             |     [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Searching%20and%20Sorting/pairDiff.md)      |
+
+---
+
+## Linked List
+
+|        Problem        |                           Problem Link                           |                                                   Solution                                                    |
+| :-------------------: | :--------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| Middle of Linked List | [Link](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Linked%20List/middle.md) |
 
 ---
 
