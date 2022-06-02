@@ -40,6 +40,7 @@ A lot of thanks to Arsh Goyal for providing this Amazing DSA sheet
 | :---------------------------------------------: | :--------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 | Permute arrays such that sum of every pair >= k | [Link](https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Searching%20and%20Sorting/permuteArrays.md) |
 | Ceiling in a sorted array | [Link](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Searching%20and%20Sorting/ceilInSortedArray.md) |
+| Find Pair Given Difference | [Link](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Searching%20and%20Sorting/pairDiff.md) |
 
 ---
 
