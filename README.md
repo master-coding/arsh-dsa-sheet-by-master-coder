@@ -16,12 +16,13 @@ A lot of thanks to Arsh Goyal for providing this Amazing DSA sheet
 
 ## Arrays
 
-|            Problem             |                                        Problem Link                                        |                                                           Solution                                                           |
-| :----------------------------: | :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
-|   Find the duplicate number    |              [Link](https://leetcode.com/problems/find-the-duplicate-number/)              |    [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/findTheDuplicateNumber.md)    |
-|          Sort colors           |                     [Link](https://leetcode.com/problems/sort-colors/)                     |          [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/sortColors.md)          |
-| Chocolate Distribution Problem | [Link](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1/#) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/chocolateDistributionProblem.md) |
-|            Two Sum             |                       [Link](https://leetcode.com/problems/two-sum/)                       |            [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/twoSum.md)            |
+|             Problem             |                                        Problem Link                                        |                                                           Solution                                                           |
+| :-----------------------------: | :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+|    Find the duplicate number    |              [Link](https://leetcode.com/problems/find-the-duplicate-number/)              |    [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/findTheDuplicateNumber.md)    |
+|           Sort colors           |                     [Link](https://leetcode.com/problems/sort-colors/)                     |          [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/sortColors.md)          |
+| Chocolate Distribution Problem  | [Link](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1/#) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/chocolateDistributionProblem.md) |
+|             Two Sum             |                       [Link](https://leetcode.com/problems/two-sum/)                       |            [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/twoSum.md)            |
+| Find All Duplicates in an Array |           [Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/)           |        [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Arrays/findDuplicates.md)        |
 
 ---
 
