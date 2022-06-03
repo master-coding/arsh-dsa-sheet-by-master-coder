@@ -37,6 +37,14 @@ A lot of thanks to Arsh Goyal for providing this Amazing DSA sheet
 
 ---
 
+## Mathematical Problems
+
+|  Problem   |                   Problem Link                    |                                                          Solution                                                          |
+| :--------: | :-----------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+| Add Binary | [Link](https://leetcode.com/problems/add-binary/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Mathematical%20Problems/addBinary.md) |
+
+---
+
 ## Sorting and Searching
 
 |                     Problem                     |                                       Problem Link                                       |                                                               Solution                                                               |
