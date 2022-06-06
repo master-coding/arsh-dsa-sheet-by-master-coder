@@ -57,9 +57,10 @@ A lot of thanks to Arsh Goyal for providing this Amazing DSA sheet
 
 ## Linked List
 
-|        Problem        |                           Problem Link                           |                                                   Solution                                                    |
-| :-------------------: | :--------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-| Middle of Linked List | [Link](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Linked%20List/middle.md) |
+|              Problem               |                               Problem Link                                |                                                        Solution                                                         |
+| :--------------------------------: | :-----------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+|       Middle of Linked List        |     [Link](https://leetcode.com/problems/middle-of-the-linked-list/)      |      [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Linked%20List/middle.md)      |
+| Remove Duplicates from Sorted List | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/master-coding/arsh-dsa-sheet-by-master-coder/blob/main/Linked%20List/removeDuplicates.md) |
 
 ---
 
